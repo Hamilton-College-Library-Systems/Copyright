@@ -1,4 +1,4 @@
-MODS record will have <accessConditon type="use and reproduction"> with one of the following:"
+MODS record will have &lt;accessConditon type="use and reproduction"&gt; with one of the following:"
 
 * rightsstatement.org URL
 * Creative Commons URL
